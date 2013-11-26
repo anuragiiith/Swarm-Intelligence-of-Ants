@@ -1,0 +1,59 @@
+
+.......................
+Read Me Before Starting
+```````````````````````
+-----------------------------------------------------------------------------------------------------
+
+I Requirements:
+1. C++
+1. OpenGL
+3. OpenGL library with glut.h
+
+II Learn About the game
+Swarm Intelligence.
+It is the behaviour shown by the ants interacting locally with each other and with their enviornment.
+Game teaches player "Swarm intelligence" and tests player's ability to deafeat intelligent system that ants follow.
+
+III Purpose
+1. Use Block to kill/Stop Ants such that they do not reach the food.
+
+
+IV Instruction
+A.Mouse
+1. Click Learn  : To Learn about the game.
+2. Click Inst.  : For Instructions.
+3. Click Start  : Starts the Game.
+
+B.Keyboard
+1. Left Arrow   : Move Left
+2. Right Arrow  : Move Right
+3. Up Arrow     : Move Up
+4. Down Arrow   : Move Down
+5. q            : Quit
+
+V Start Playing:
+1. Double Click "Ants" to start the game.
+
+
+------------------------------------------------------------------------------------------------------
+
+Technical Specifications.
+
+Game Engine     : OpenGL
+Fps (frames/Sec): 10 fps
+Requirement     : C++,OpenGL,GL/glut.h library for C++
+Size            : 7.1 MB
+Source:
+        1. clases.h -> Contains all the classes used in the Game. (Example Ant,Food,Source etc.)
+        2. functions.h -> Contains all the function.
+        3. main.cpp -> Main File.
+        4. imageloader.cpp and imageloader.h -> Files to load Texture in the game.
+        5. button.cpp -> To include the buttons in the game.
+        6. *.bmp -> All the images Used in the Game.
+
+-----------------------------------------------------------------------------------------------------
+
+By:
+Mahaver Chopra (201101011) mahaver.chopra@students.iiit.ac.in
+Anurag Goel    (201101175) anurag.goel@students.iiit.ac.in
+Contact Us Anytime and we would be their for this game.
